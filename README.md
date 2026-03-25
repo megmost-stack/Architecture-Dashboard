@@ -6,6 +6,5 @@
 * [design-pattern](https://github.com/megmost-stack/design-pattern)
 
 ### 2. Distributed Systems
-* #### API
-  * ##### [megmost-stack/api-first](https://github.com/megmost-stack/api-first)
+* #### [megmost-stack/api-first](https://github.com/megmost-stack/api-first)
 
